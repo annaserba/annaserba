@@ -1,4 +1,4 @@
-# Hi! I'm Anya — frontend developer
+# Hi! I'm Anna — frontend developer
 
 ## Work Experience
 
