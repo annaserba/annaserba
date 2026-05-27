@@ -10,6 +10,10 @@
 
 React, Vite, TypeScript, Next.js, Webpack, jQuery
 
+## AI Tools
+
+ChatGPT, DeepSeek, Claude Sonnet
+
 ## Education
 
 - **Sevastopol State University** (2012 — 2016) — Computer Science
