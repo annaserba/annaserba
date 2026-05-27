@@ -8,7 +8,7 @@
 
 ## Technologies
 
-React, Angular, Vue, Vite, TypeScript, Next.js, Webpack, jQuery
+React, Angular, Vue, Three.js, Vite, TypeScript, Next.js, Webpack, jQuery
 
 ## AI Tools
 
