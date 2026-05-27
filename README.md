@@ -2,7 +2,7 @@
 
 ## Work Experience
 
-- **Tenkites** (2016 — 2021) — frontend developer, built restaurant menus
+- **Tenkites** (June 2016 — May 2021) — frontend developer, built restaurant menus
 - **[SuperJob](https://superjob.ru)** (June 2021 — June 2025) — frontend developer
 - **Gazprom** (April 2026 — present) — frontend developer
 
