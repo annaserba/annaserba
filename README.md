@@ -15,4 +15,5 @@
 - [Turk's Head Twickenham — restaurant menu](https://www.turksheadtwickenham.co.uk/food/menus)
 - [Slim's Belfast — restaurant menu](https://menus.tenkites.com/brg/slimsbelfast?sitecode=SLM%20Belfast&mguid=df421c33-c448-43af-a0e2-aa29c0c70086)
 - [Frankie & Benny's — restaurant menu](https://www.frankieandbennys.com/menu)
+- [SuperJob — landing page](https://www.superjob.ru/clients/superjob-14449.html)
 - [3D visualization of Russia for Gazprom](https://github.com/annaserba/3d-russia-gasprom)
