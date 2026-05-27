@@ -6,6 +6,10 @@
 - **[SuperJob](https://superjob.ru)** (June 2021 — June 2025) — frontend developer
 - **Gazprom** (April 2026 — present) — frontend developer
 
+## Technologies
+
+React, Vite, TypeScript, Next.js, Webpack, jQuery
+
 ## Education
 
 - **Sevastopol State University** (2012 — 2016) — Computer Science
