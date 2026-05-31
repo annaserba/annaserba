@@ -7,7 +7,7 @@
 - **Gazstroyprom JSC** (April 2026 — present) — fullstack developer (React, Vite, Python), took over project support from a departing contractor
 - **Self-employed** (July 2025 — May 2026) — AI applier
 - **[SuperJob](https://superjob.ru)** (June 2021 — June 2025) — Employer Interfaces team (React, Node.js). Led development of special projects for major employers: Sberbank, VTB, Russian Post, Perekrestok
-- **Tenkites** (June 2016 — May 2021) — fullstack developer, restaurant web menus
+- **Tenkites** (June 2016 — May 2021) — fullstack developer (C#, PHP), restaurant web menus
 
 ## Technologies
 
