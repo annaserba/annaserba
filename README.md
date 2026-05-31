@@ -24,6 +24,7 @@ HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, A
 - CI/CD pipelines
 - Game development (Three.js, browser games)
 - Chatbot development (Telegram, AI-powered)
+- AI integrations (LLM APIs, prompt engineering, voice recognition)
 
 ## AI Tools
 

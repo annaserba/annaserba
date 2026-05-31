@@ -24,6 +24,7 @@ HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, A
 - CI/CD пайплайны
 - Создание игр (Three.js, браузерные игры)
 - Разработка чат-ботов (Telegram, AI)
+- AI-интеграции (LLM API, prompt engineering, распознавание речи)
 
 ## AI-инструменты
 
