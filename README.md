@@ -23,6 +23,7 @@ HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, A
 - E2E testing (Cypress), unit testing (Jest)
 - CI/CD pipelines
 - Game development (Three.js, browser games)
+- Chatbot development (Telegram, AI-powered)
 
 ## AI Tools
 
