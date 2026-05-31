@@ -29,7 +29,7 @@ ChatGPT, DeepSeek, Claude Sonnet
 
 ### DragonSpeak
 
-Speech-controlled dragon game built with Three.js. Learn a language by speaking words to control your dragon!
+Speech-controlled dragon game built with Three.js. Learn Chinese by speaking words to control your dragon!
 
 - <a href="https://dragon-speak-game.vercel.app" target="_blank">Live game</a>
 - <a href="https://dragon-speak-demo.vercel.app" target="_blank">Live demo with explanations</a>
