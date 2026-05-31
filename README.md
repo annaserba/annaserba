@@ -1,4 +1,4 @@
-# Hi! I'm Anna — frontend developer
+# Hi! I'm Anna — AI applyer, frontend & fullstack developer
 
 [Русская версия](./README-ru.md)
 
