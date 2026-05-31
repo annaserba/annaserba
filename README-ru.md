@@ -20,6 +20,8 @@ HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, A
 - БЭМ / компонентный подход
 - Настройка Vite и Webpack с нуля
 - Вёрстка email-рассылок
+- E2E-тестирование (Cypress), unit-тестирование (Jest)
+- CI/CD пайплайны
 
 ## AI-инструменты
 
