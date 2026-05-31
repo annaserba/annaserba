@@ -1,4 +1,4 @@
-# Hi! I'm Anna — frontend & fullstack developer
+# Hi! I'm Anna — frontend & fullstack developer, AI applier
 
 ## Work Experience
 
