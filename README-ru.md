@@ -42,6 +42,8 @@ ChatGPT, DeepSeek, Claude Sonnet
 - [Исходный код](https://github.com/annaserba/DragonSpeak)
 - [Исходный код демо](https://github.com/annaserba/DragonSpeak-demo)
 
+### Другие проекты
+
 - [MyHome — пет-проект](https://github.com/annaserba/MyHome)
 - [TripMaster24 — пет-проект](https://tripmaster24.ru/)
 - [3D-визуализация России для Газпрома](https://github.com/annaserba/3d-russia-gasprom)

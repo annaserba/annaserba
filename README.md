@@ -42,6 +42,8 @@ Speech-controlled game built with Three.js. Learn Chinese by speaking words to c
 - [Source](https://github.com/annaserba/DragonSpeak)
 - [Demo source](https://github.com/annaserba/DragonSpeak-demo)
 
+### Other Projects
+
 - [MyHome — pet project](https://github.com/annaserba/MyHome)
 - [TripMaster24 — pet project](https://tripmaster24.ru/)
 - [3D visualization of Russia for Gazprom](https://github.com/annaserba/3d-russia-gasprom)
