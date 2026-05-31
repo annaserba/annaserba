@@ -11,7 +11,7 @@
 
 ## Технологии
 
-HTML, CSS, JavaScript, TypeScript, React, Figma, Node.js, PHP, Angular, Vue, Three.js, Vite, Next.js, Webpack, jQuery, Jest, Cypress, C#, Python
+HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, Angular, Vue, Three.js, Vite, Next.js, Webpack, jQuery, Jest, Cypress, C#, Python
 
 ## Сильные стороны
 
