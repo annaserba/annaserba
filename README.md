@@ -4,6 +4,7 @@
 
 - **Tenkites** (June 2016 — May 2021) — frontend developer, built restaurant menus
 - **<a href="https://superjob.ru" target="_blank">SuperJob</a>** (June 2021 — June 2025) — frontend developer
+- **Self-employed** (July 2025 — May 2026) — AI applier
 - **Gazprom** (April 2026 — present) — frontend developer
 
 ## Technologies
