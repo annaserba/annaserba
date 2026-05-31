@@ -22,6 +22,7 @@ HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, A
 - HTML email templates
 - E2E testing (Cypress), unit testing (Jest)
 - CI/CD pipelines
+- Game development (Three.js, browser games)
 
 ## AI Tools
 
