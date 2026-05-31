@@ -20,7 +20,6 @@ HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, A
 - BEM / component-based approach
 - Set up Vite and Webpack from scratch
 - HTML email templates
-- Tilda (basic)
 
 ## AI Tools
 
@@ -32,14 +31,6 @@ ChatGPT, DeepSeek, Claude Sonnet
 
 ## Projects
 
-- [Turk's Head Twickenham — restaurant menu](https://www.turksheadtwickenham.co.uk/food/menus)
-- [Slim's Belfast — restaurant menu](https://menus.tenkites.com/brg/slimsbelfast?sitecode=SLM%20Belfast&mguid=df421c33-c448-43af-a0e2-aa29c0c70086)
-- [Frankie & Benny's — restaurant menu](https://www.frankieandbennys.com/menu)
-- [SuperJob — landing page](https://www.superjob.ru/clients/superjob-14449.html)
-- [3D visualization of Russia for Gazprom](https://github.com/annaserba/3d-russia-gasprom)
-- [TripMaster24 — pet project](https://tripmaster24.ru/)
-- [MyHome — pet project](https://github.com/annaserba/MyHome)
-
 ### DragonSpeak
 
 Speech-controlled game built with Three.js. Learn Chinese by speaking words to control your dragon.
@@ -48,3 +39,11 @@ Speech-controlled game built with Three.js. Learn Chinese by speaking words to c
 - [Live demo](https://dragon-speak-demo.vercel.app)
 - [Source](https://github.com/annaserba/DragonSpeak)
 - [Demo source](https://github.com/annaserba/DragonSpeak-demo)
+
+- [MyHome — pet project](https://github.com/annaserba/MyHome)
+- [TripMaster24 — pet project](https://tripmaster24.ru/)
+- [3D visualization of Russia for Gazprom](https://github.com/annaserba/3d-russia-gasprom)
+- [SuperJob — landing page](https://www.superjob.ru/clients/superjob-14449.html)
+- [Frankie & Benny's — restaurant menu](https://www.frankieandbennys.com/menu)
+- [Slim's Belfast — restaurant menu](https://menus.tenkites.com/brg/slimsbelfast?sitecode=SLM%20Belfast&mguid=df421c33-c448-43af-a0e2-aa29c0c70086)
+- [Turk's Head Twickenham — restaurant menu](https://www.turksheadtwickenham.co.uk/food/menus)

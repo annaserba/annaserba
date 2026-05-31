@@ -20,7 +20,6 @@ HTML, CSS, JavaScript, TypeScript, React, Figma (Pixel Perfect), Node.js, PHP, A
 - БЭМ / компонентный подход
 - Настройка Vite и Webpack с нуля
 - Вёрстка email-рассылок
-- Tilda (базово)
 
 ## AI-инструменты
 
@@ -32,14 +31,6 @@ ChatGPT, DeepSeek, Claude Sonnet
 
 ## Проекты
 
-- [Turk's Head Twickenham — меню ресторана](https://www.turksheadtwickenham.co.uk/food/menus)
-- [Slim's Belfast — меню ресторана](https://menus.tenkites.com/brg/slimsbelfast?sitecode=SLM%20Belfast&mguid=df421c33-c448-43af-a0e2-aa29c0c70086)
-- [Frankie & Benny's — меню ресторана](https://www.frankieandbennys.com/menu)
-- [SuperJob — лендинг](https://www.superjob.ru/clients/superjob-14449.html)
-- [3D-визуализация России для Газпрома](https://github.com/annaserba/3d-russia-gasprom)
-- [TripMaster24 — пет-проект](https://tripmaster24.ru/)
-- [MyHome — пет-проект](https://github.com/annaserba/MyHome)
-
 ### DragonSpeak
 
 Игра с голосовым управлением на Three.js. Учи китайский, управляя драконом произношением слов.
@@ -48,3 +39,11 @@ ChatGPT, DeepSeek, Claude Sonnet
 - [Демо с пояснениями](https://dragon-speak-demo.vercel.app)
 - [Исходный код](https://github.com/annaserba/DragonSpeak)
 - [Исходный код демо](https://github.com/annaserba/DragonSpeak-demo)
+
+- [MyHome — пет-проект](https://github.com/annaserba/MyHome)
+- [TripMaster24 — пет-проект](https://tripmaster24.ru/)
+- [3D-визуализация России для Газпрома](https://github.com/annaserba/3d-russia-gasprom)
+- [SuperJob — лендинг](https://www.superjob.ru/clients/superjob-14449.html)
+- [Frankie & Benny's — меню ресторана](https://www.frankieandbennys.com/menu)
+- [Slim's Belfast — меню ресторана](https://menus.tenkites.com/brg/slimsbelfast?sitecode=SLM%20Belfast&mguid=df421c33-c448-43af-a0e2-aa29c0c70086)
+- [Turk's Head Twickenham — меню ресторана](https://www.turksheadtwickenham.co.uk/food/menus)
