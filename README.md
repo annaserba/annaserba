@@ -26,3 +26,13 @@ ChatGPT, DeepSeek, Claude Sonnet
 - <a href="https://www.superjob.ru/clients/superjob-14449.html" target="_blank">SuperJob — landing page</a>
 - <a href="https://github.com/annaserba/3d-russia-gasprom" target="_blank">3D visualization of Russia for Gazprom</a>
 - <a href="https://tripmaster24.ru/" target="_blank">TripMaster24 — pet project</a>
+
+### DragonSpeak
+
+Speech-controlled dragon game built with Three.js. Learn a language by speaking words to control your dragon!
+
+- <a href="https://dragon-speak-game.vercel.app" target="_blank">Live game</a>
+- <a href="https://dragon-speak-demo.vercel.app" target="_blank">Live demo with explanations</a>
+- <a href="https://github.com/annaserba/DragonSpeak" target="_blank">Source</a>
+- <a href="https://github.com/annaserba/DragonSpeak-game" target="_blank">Source (game repo)</a>
+- <a href="https://github.com/annaserba/DragonSpeak-demo" target="_blank">Demo source</a>
