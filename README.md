@@ -1,15 +1,26 @@
-# Hi! I'm Anna — frontend & fullstack developer, AI applier
+# Hi! I'm Anna — frontend developer
+
+[Русская версия](./README-ru.md)
 
 ## Work Experience
 
-- **Gazprom** (April 2026 — present) — fullstack developer
-- **Self-employed** (July 2025 — May 2026) — AI applier
-- **<a href="https://superjob.ru" target="_blank">SuperJob</a>** (June 2021 — June 2025) — frontend developer
-- **Tenkites** (June 2016 — May 2021) — fullstack developer, built restaurant menus
+- **Gazstroyprom JSC** (April 2026 — present) — frontend developer
+- **Self-employed** (July 2025 — May 2026) — AI integrations
+- **[SuperJob](https://superjob.ru)** (June 2021 — June 2025) — Employer Interfaces team. Led development of special projects for major employers: Sberbank, VTB, Russian Post, Perekrestok
+- **Tenkites** (June 2016 — May 2021) — fullstack developer, restaurant web menus
 
 ## Technologies
 
-React, Angular, Vue, Three.js, Vite, TypeScript, Next.js, Webpack, jQuery, Jest, Cypress, C#, Python
+HTML, CSS, JavaScript, TypeScript, React, Figma, Node.js, PHP, Angular, Vue, Three.js, Vite, Next.js, Webpack, jQuery, Jest, Cypress, C#, Python
+
+## Strengths
+
+- Pixel Perfect layout from Figma
+- Responsive/adaptive layout
+- BEM / component-based approach
+- Set up Vite and Webpack from scratch
+- HTML email templates
+- Tilda (basic)
 
 ## AI Tools
 
@@ -21,19 +32,19 @@ ChatGPT, DeepSeek, Claude Sonnet
 
 ## Projects
 
-- <a href="https://www.turksheadtwickenham.co.uk/food/menus" target="_blank">Turk's Head Twickenham — restaurant menu</a>
-- <a href="https://menus.tenkites.com/brg/slimsbelfast?sitecode=SLM%20Belfast&mguid=df421c33-c448-43af-a0e2-aa29c0c70086" target="_blank">Slim's Belfast — restaurant menu</a>
-- <a href="https://www.frankieandbennys.com/menu" target="_blank">Frankie & Benny's — restaurant menu</a>
-- <a href="https://www.superjob.ru/clients/superjob-14449.html" target="_blank">SuperJob — landing page</a>
-- <a href="https://github.com/annaserba/3d-russia-gasprom" target="_blank">3D visualization of Russia for Gazprom</a>
-- <a href="https://tripmaster24.ru/" target="_blank">TripMaster24 — pet project</a>
-- <a href="https://github.com/annaserba/MyHome" target="_blank">MyHome — pet project</a>
+- [Turk's Head Twickenham — restaurant menu](https://www.turksheadtwickenham.co.uk/food/menus)
+- [Slim's Belfast — restaurant menu](https://menus.tenkites.com/brg/slimsbelfast?sitecode=SLM%20Belfast&mguid=df421c33-c448-43af-a0e2-aa29c0c70086)
+- [Frankie & Benny's — restaurant menu](https://www.frankieandbennys.com/menu)
+- [SuperJob — landing page](https://www.superjob.ru/clients/superjob-14449.html)
+- [3D visualization of Russia for Gazprom](https://github.com/annaserba/3d-russia-gasprom)
+- [TripMaster24 — pet project](https://tripmaster24.ru/)
+- [MyHome — pet project](https://github.com/annaserba/MyHome)
 
 ### DragonSpeak
 
-Speech-controlled game built with Three.js. Learn Chinese by speaking words to control your dragon (coming soon)!
+Speech-controlled game built with Three.js. Learn Chinese by speaking words to control your dragon.
 
-- <a href="https://dragon-speak-game.vercel.app" target="_blank">Live game</a>
-- <a href="https://dragon-speak-demo.vercel.app" target="_blank">Live demo with explanations</a>
-- <a href="https://github.com/annaserba/DragonSpeak" target="_blank">Source</a>
-- <a href="https://github.com/annaserba/DragonSpeak-demo" target="_blank">Demo source</a>
+- [Live game](https://dragon-speak-game.vercel.app)
+- [Live demo](https://dragon-speak-demo.vercel.app)
+- [Source](https://github.com/annaserba/DragonSpeak)
+- [Demo source](https://github.com/annaserba/DragonSpeak-demo)
