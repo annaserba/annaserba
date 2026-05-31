@@ -4,9 +4,9 @@
 
 ## Work Experience
 
-- **Gazstroyprom JSC** (April 2026 — present) — fullstack developer (React, Vite, Python), took over project support from a departing contractor
+- **Gazstroyprom JSC** (April 2026 — present) — fullstack developer (React, Vite, Python), CI/CD, took over project support from a departing contractor
 - **Self-employed** (July 2025 — May 2026) — AI applier
-- **[SuperJob](https://superjob.ru)** (June 2021 — June 2025) — Employer Interfaces team (React, Node.js). Led development of special projects for major employers: Sberbank, VTB, Russian Post, Perekrestok
+- **[SuperJob](https://superjob.ru)** (June 2021 — June 2025) — Employer Interfaces team (React, Node.js). Led development of special projects for major employers: Sberbank, VTB, Russian Post, Perekrestok. Release duty, E2E testing
 - **Tenkites** (June 2016 — May 2021) — fullstack developer (C#, PHP, jQuery), restaurant web menus
 
 ## Technologies
