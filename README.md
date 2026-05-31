@@ -26,6 +26,7 @@ ChatGPT, DeepSeek, Claude Sonnet
 - <a href="https://www.superjob.ru/clients/superjob-14449.html" target="_blank">SuperJob — landing page</a>
 - <a href="https://github.com/annaserba/3d-russia-gasprom" target="_blank">3D visualization of Russia for Gazprom</a>
 - <a href="https://tripmaster24.ru/" target="_blank">TripMaster24 — pet project</a>
+- <a href="https://github.com/annaserba/MyHome" target="_blank">MyHome — pet project</a>
 
 ### DragonSpeak
 
