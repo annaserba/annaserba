@@ -34,5 +34,4 @@ Speech-controlled game built with Three.js. Learn Chinese by speaking words to c
 - <a href="https://dragon-speak-game.vercel.app" target="_blank">Live game</a>
 - <a href="https://dragon-speak-demo.vercel.app" target="_blank">Live demo with explanations</a>
 - <a href="https://github.com/annaserba/DragonSpeak" target="_blank">Source</a>
-- <a href="https://github.com/annaserba/DragonSpeak-game" target="_blank">Source (game repo)</a>
 - <a href="https://github.com/annaserba/DragonSpeak-demo" target="_blank">Demo source</a>
